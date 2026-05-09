@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/2D Bird Game Mobile/Scenes/Menu.unity
+    guid: 5ee6491ff6503e345b2fda4308404d13
+  - enabled: 0
+    path: Assets/2D Bird Game Mobile/Scenes/Game.unity
+    guid: ef9bd5f650229d147ac57a1ef7f2a3c1
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 42ba17d5ea10a6741a1f371ac4fbbf7e
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: bf4871132d846684fa0228e31a65938f
+  - enabled: 1
+    path: Assets/Scenes/SkinChoose.unity
+    guid: fb6def39a6d93c94b9d4ec546e1dd028
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
